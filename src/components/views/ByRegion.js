@@ -36,7 +36,7 @@ export default function ByRegion() {
     <div onChange={handleChange}>
       <input type={"radio"} name="region" defaultChecked value="Africa" />
       <label style={{ marginRight: "15px" }}>Africa</label>
-      <input type={"radio"} name="region" value="America" />
+      <input type={"radio"} name="region" value="Americas" />
       <label style={{ marginRight: "15px" }}>America</label>
       <input type={"radio"} name="region" value="Asia" />
       <label style={{ marginRight: "15px" }}>Asia</label>
